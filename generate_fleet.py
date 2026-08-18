@@ -8,7 +8,7 @@ for i in range(10):
     temperature = random.randint(20,100)
     status = random.choice(['Active','Charging'])
     fleet.append({"id": id,
-                  "spped": speed,
+                  "speed": speed,
                   "battery":battery,
                   "temperature": temperature,
                   "status":status})
