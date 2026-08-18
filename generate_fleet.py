@@ -10,3 +10,4 @@ for i in range(10):
 with open("fleet.json", "w") as file:
     json.dump(fleet,file, indent =4)
 
+    
