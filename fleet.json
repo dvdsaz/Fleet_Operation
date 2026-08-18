@@ -1,0 +1,52 @@
+[
+    {
+        "id": "AV_0",
+        "battery": 60,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_1",
+        "battery": 76,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_2",
+        "battery": 38,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_3",
+        "battery": 70,
+        "status": "Active"
+    },
+    {
+        "id": "AV_4",
+        "battery": 34,
+        "status": "Active"
+    },
+    {
+        "id": "AV_5",
+        "battery": 55,
+        "status": "Active"
+    },
+    {
+        "id": "AV_6",
+        "battery": 38,
+        "status": "Active"
+    },
+    {
+        "id": "AV_7",
+        "battery": 54,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_8",
+        "battery": 66,
+        "status": "Active"
+    },
+    {
+        "id": "AV_9",
+        "battery": 32,
+        "status": "Active"
+    }
+]
