@@ -1,52 +1,52 @@
 [
     {
         "id": "AV_0",
-        "battery": 60,
-        "status": "Charging"
-    },
-    {
-        "id": "AV_1",
-        "battery": 76,
-        "status": "Charging"
-    },
-    {
-        "id": "AV_2",
-        "battery": 38,
-        "status": "Charging"
-    },
-    {
-        "id": "AV_3",
-        "battery": 70,
-        "status": "Active"
-    },
-    {
-        "id": "AV_4",
-        "battery": 34,
-        "status": "Active"
-    },
-    {
-        "id": "AV_5",
-        "battery": 55,
-        "status": "Active"
-    },
-    {
-        "id": "AV_6",
-        "battery": 38,
-        "status": "Active"
-    },
-    {
-        "id": "AV_7",
         "battery": 54,
         "status": "Charging"
     },
     {
+        "id": "AV_1",
+        "battery": 45,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_2",
+        "battery": 41,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_3",
+        "battery": 78,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_4",
+        "battery": 36,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_5",
+        "battery": 65,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_6",
+        "battery": 59,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_7",
+        "battery": 44,
+        "status": "Charging"
+    },
+    {
         "id": "AV_8",
-        "battery": 66,
+        "battery": 76,
         "status": "Active"
     },
     {
         "id": "AV_9",
-        "battery": 32,
-        "status": "Active"
+        "battery": 47,
+        "status": "Charging"
     }
 ]
