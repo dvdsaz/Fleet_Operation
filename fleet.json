@@ -1,52 +1,72 @@
 [
     {
         "id": "AV_0",
-        "battery": 54,
+        "spped": 41,
+        "battery": 76,
+        "temperature": 91,
         "status": "Charging"
     },
     {
         "id": "AV_1",
-        "battery": 45,
-        "status": "Charging"
+        "spped": 36,
+        "battery": 63,
+        "temperature": 56,
+        "status": "Active"
     },
     {
         "id": "AV_2",
-        "battery": 41,
-        "status": "Charging"
+        "spped": 39,
+        "battery": 36,
+        "temperature": 90,
+        "status": "Active"
     },
     {
         "id": "AV_3",
-        "battery": 78,
-        "status": "Charging"
+        "spped": 40,
+        "battery": 49,
+        "temperature": 93,
+        "status": "Active"
     },
     {
         "id": "AV_4",
-        "battery": 36,
+        "spped": 43,
+        "battery": 78,
+        "temperature": 52,
         "status": "Charging"
     },
     {
         "id": "AV_5",
-        "battery": 65,
-        "status": "Charging"
+        "spped": 42,
+        "battery": 67,
+        "temperature": 34,
+        "status": "Active"
     },
     {
         "id": "AV_6",
-        "battery": 59,
+        "spped": 35,
+        "battery": 52,
+        "temperature": 55,
         "status": "Charging"
     },
     {
         "id": "AV_7",
-        "battery": 44,
+        "spped": 26,
+        "battery": 35,
+        "temperature": 91,
         "status": "Charging"
     },
     {
         "id": "AV_8",
-        "battery": 76,
-        "status": "Active"
+        "spped": 26,
+        "battery": 53,
+        "temperature": 63,
+        "status": "Charging"
     },
     {
         "id": "AV_9",
+        "spped": 28,
         "battery": 47,
-        "status": "Charging"
+        "temperature": 63,
+        "status": "Active"
     }
 ]
