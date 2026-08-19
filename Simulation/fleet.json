@@ -1,0 +1,72 @@
+[
+    {
+        "id": "AV_0",
+        "speed": 37,
+        "battery": 53,
+        "temperature": 61,
+        "status": "Active"
+    },
+    {
+        "id": "AV_1",
+        "speed": 44,
+        "battery": 66,
+        "temperature": 84,
+        "status": "Active"
+    },
+    {
+        "id": "AV_2",
+        "speed": 42,
+        "battery": 65,
+        "temperature": 38,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_3",
+        "speed": 27,
+        "battery": 64,
+        "temperature": 54,
+        "status": "Active"
+    },
+    {
+        "id": "AV_4",
+        "speed": 37,
+        "battery": 63,
+        "temperature": 71,
+        "status": "Active"
+    },
+    {
+        "id": "AV_5",
+        "speed": 41,
+        "battery": 36,
+        "temperature": 74,
+        "status": "Active"
+    },
+    {
+        "id": "AV_6",
+        "speed": 42,
+        "battery": 65,
+        "temperature": 53,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_7",
+        "speed": 32,
+        "battery": 75,
+        "temperature": 99,
+        "status": "Active"
+    },
+    {
+        "id": "AV_8",
+        "speed": 36,
+        "battery": 42,
+        "temperature": 63,
+        "status": "Charging"
+    },
+    {
+        "id": "AV_9",
+        "speed": 27,
+        "battery": 46,
+        "temperature": 92,
+        "status": "Charging"
+    }
+]
