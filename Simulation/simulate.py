@@ -1,6 +1,7 @@
 import json 
 import time 
 
+
 while True:
     with open("fleet.json", "r") as file:
         fleet = json.load(file)
@@ -9,3 +10,4 @@ while True:
     with open("fleet.json",'w') as file:
         fleet = json.dump(fleet,file, indent =4)
     time.sleep(5)
+    print("5 Seconds .....")
