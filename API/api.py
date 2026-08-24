@@ -5,7 +5,12 @@ app = FastAPI()
 fleet = {}
 with open("../Simulation/fleet.json", "r") as file:
         fleet = json.load(file)
-        
+#I need to figure out how to run this in the simulate.py file
+def read_json():
+    with open("../Simulation/fleet.json", "r") as file:
+        fleet = json.load(file)
+
+
 #Get all Vehicle in FLeet
 @app.get("/vehicles")
 def get_Vehicles():
