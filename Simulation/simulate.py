@@ -7,7 +7,7 @@ while True:
         fleet = json.load(file)
     for i in range(len(fleet)):
         fleet[i]["speed"] = fleet[i]["speed"] - 1
-    with open("fleet.json",'w') as file:
+    with open("utilities/fleet.json",'w') as file:
         fleet = json.dump(fleet,file, indent =4)
     time.sleep(5)
     print("5 Seconds .....")
