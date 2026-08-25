@@ -3,7 +3,7 @@ import time
 
 
 while True:
-    with open("fleet.json", "r") as file:
+    with open("utilities/fleet.json", "r") as file:
         fleet = json.load(file)
     for i in range(len(fleet)):
         fleet[i]["speed"] = fleet[i]["speed"] - 1

@@ -13,7 +13,7 @@ for i in range(10):
                   "temperature": temperature,
                   "status":status})
 
-with open("fleet.json", "w") as file:
+with open("utilities/fleet.json", "w") as file:
     json.dump(fleet,file, indent =4)
 
 
